@@ -1,0 +1,4 @@
+stationGroupName,displayName,storageGWh,storageGWhYear0,storageGWhYear1,storageGWhYear2,rainfallmm,fullStorageGWh,storagePercentage,waterLevel,energyGWh,activePowerMW,reactivePowerMvar,dateTime,dateTimeYear0,dateTimeYear1,dateTimeYear2,order,status,number
+Day Peak,Day Peak,0,0,0,0,0,0,0,0,0,2704.41870155,748.948313667,2026-01-27T16:45:00,0001-01-01T00:00:00,0001-01-01T00:00:00,0001-01-01T00:00:00,0,0,0
+Night Peak,Night Peak,0,0,0,0,0,0,0,0,0,2880.974814,687.841675367,2026-01-27T19:00:00,0001-01-01T00:00:00,0001-01-01T00:00:00,0001-01-01T00:00:00,0,0,0
+Off Peak,Minimum Demand,0,0,0,0,0,0,0,0,0,1579.164862,79.5851125,2026-01-27T03:30:00,0001-01-01T00:00:00,0001-01-01T00:00:00,0001-01-01T00:00:00,0,0,0

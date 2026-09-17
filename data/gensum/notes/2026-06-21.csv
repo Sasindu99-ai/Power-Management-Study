@@ -1,0 +1,5 @@
+storageGWh,storageGWhYear0,storageGWhYear1,storageGWhYear2,rainfallmm,fullStorageGWh,storagePercentage,waterLevel,energyGWh,activePowerMW,reactivePowerMvar,dateTime,dateTimeYear0,dateTimeYear1,dateTimeYear2,order,dataSource,status,title,number,note
+0,0,0,0,0,0,0,0,0,0,0,2026-07-27T06:37:03,0001-01-01T00:00:00,0001-01-01T00:00:00,0001-01-01T00:00:00,0,1785114422170,1,Daily Energy Data,1,"Includes 10MW Solar Parks, Bulk 01-10 MW Solar  and Rooftop Solar (Est.)."
+0,0,0,0,0,0,0,0,0,0,0,2026-07-27T06:37:03,0001-01-01T00:00:00,0001-01-01T00:00:00,0001-01-01T00:00:00,0,1785114422170,1,Daily Energy Data,2,Includes telemetered 208 MHPs and non telemetered (Est.) MHPs.
+0,0,0,0,0,0,0,0,0,0,0,2026-07-27T06:37:03,0001-01-01T00:00:00,0001-01-01T00:00:00,0001-01-01T00:00:00,0,1785114422170,1,Night Peak Data (Complex Wise),1,"Excludes non-telemetered Solar, Wind, Minihydro and Biomass power plants."
+0,0,0,0,0,0,0,0,0,0,0,2026-07-27T06:37:03,0001-01-01T00:00:00,0001-01-01T00:00:00,0001-01-01T00:00:00,0,1785114422170,1,Peak demand and minimum demand,1,"Data includes Rooftop Solar (forecasted-P50) and Ground-Mounted Solar, Mini-Hydro, Wind, and Biomass (telemetered)."

@@ -23,8 +23,8 @@ from datetime import datetime, timedelta
 # CONFIGURATION
 # ==============================================================================
 # Define start date and end date (YYYY-MM-DD)
-START_DATE = "2026-07-20"
-END_DATE = "2026-07-23"
+START_DATE = "2025-01-01"
+END_DATE = "2025-12-31"
 
 # Output directory for extracted CSV data
 DEFAULT_OUTPUT_DIR = os.path.join(
